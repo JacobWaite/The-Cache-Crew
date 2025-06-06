@@ -17,7 +17,7 @@ Part 2:
 
 The Problem: Our team identified a lack of adequate interface flexibility in Synchro Studio, making it difficult for users to efficiently find tools and customize their workspace.
 
-Design and Approach: To address the issue of limited interface flexibility in Synchro Studio, our team focused on two key areas that outlined th is issue: tool discoverability and workspace customization. Our design introduces a global search bar at the top of the application (similar to the one in Microsoft Word) to help users quickly locate tools and features. Additionally, we implemented a flexible panel system that allows users to freely resize, reposition, and toggle the visibility of key panels such as the map and data views.
+Design and Approach: To address the issue of limited interface flexibility in Synchro Studio, our team focused on two key areas that outlined this issue: tool discoverability and workspace customization. Our design introduces a global search bar at the top of the application (similar to the one in Microsoft Word) to help users quickly locate tools and features. Additionally, we implemented a flexible panel system that allows users to freely resize, reposition, and toggle the visibility of key panels such as the map and data views.
 
 Introductory Image: (Use the Logo or initial prototype photo)
 
@@ -31,16 +31,16 @@ Task Context - The Tool Search Task involves implementing a tool search bar at t
 
 Visuals - (Refer to images for Tool Search Task visuals)
 
-Narrative Walkthrough - Similar to Microsoft Word/Excel, at the top of the Synchro Studio application is a visible search bar. The user will click the search bar to begin typing, in which a brief list of recently searched tools will appear. When the user begins typing the beginning letters of a tool, the searchbar will give results of tools that have those letters until the full word is typed out or no other tools match the letters. THe user then has the exact tool they need and can select it from there.
+Narrative Walkthrough - Similar to Microsoft Word/Excel, at the top of the Synchro Studio application is a visible search bar. The user will click the search bar to begin typing, in which a brief list of recently searched tools will appear. When the user begins typing the beginning letters of a tool, the search bar will give results of tools that have those letters until the full word is typed out or no other tools match the letters. THe user then has the exact tool they need and can select it from there.
 
 
 Panel Customization Task:
 
-Task Context - The Panel Customization Task involves implementing a feature that allows the user to customize the size and visibility of any and all panels used in Synchro Studio. This feature is important as way of saving time and energy having to nagivate back and forward between informational panels and the map panel to interact with as well as ensuring a quality-of-life experience.
+Task Context - The Panel Customization Task involves implementing a feature that allows the user to customize the size and visibility of any and all panels used in Synchro Studio. This feature is important as a way of saving time and energy having to navigate back and forward between informational panels and the map panel to interact with as well as ensuring a quality-of-life experience.
 
 Visuals - (Refer to images for Panel Customization Task visuals)
 
-Narrative Walkthrough - To set up the scenario, we have a Synchro Studio application open with a map panel and a data panel setup in the same application next to eachother. The user has the ability to click and hold at the border of both applications and drag either left or right to increase/decrease the size of either panel to the size of their liking. Furthermore, the user can click and hold the window and drag it to wherever they desire on the screen. They also have the ability to click and hold the corner of the panel and drag inward or outward to increase decrease the size of that individual panel.
+Narrative Walkthrough - To set up the scenario, we have a Synchro Studio application open with a map panel and a data panel setup in the same application next to each other. The user has the ability to click and hold at the border of both applications and drag either left or right to increase/decrease the size of either panel to the size of their liking. Furthermore, the user can click and hold the window and drag it to wherever they desire on the screen. They also have the ability to click and hold the corner of the panel and drag inward or outward to increase or decrease the size of that individual panel.
 
 
 
@@ -80,23 +80,23 @@ Another key design insight was learning from the usability tests that certain fe
 
 Design Insight #3: Interface 
 
-The final insight came after the heuristic analysis for our initial digital mockup. Initially the search bar was located at the top middle section of the screen above all the tabs and tools. Feedback informed us though that the search bar functionality was great but got in the way of other important functionalities like the tool bar the top of the screen as well. We decidied it would be better served at a less-busy part of the application such as the top right. The other insight regarding our mockup was in the tabular system when it came to changing the sizes of windows and customizing the overall visibility of the panels. Feedback informed us that it was somewhat difficult to tell how exactly this was supposed to be done in which we took it upon ourselves to make the buttons abstract and distinct.
+The final insight came after the heuristic analysis for our initial digital mockup. Initially the search bar was located at the top middle section of the screen above all the tabs and tools. Feedback informed us though that the search bar functionality was great but got in the way of other important functionalities like the tool bar at the top of the screen as well. We decided it would be better served at a less-busy part of the application such as the top right. The other insight regarding our mockup was in the tabular system when it came to changing the sizes of windows and customizing the overall visibility of the panels. Feedback informed us that it was somewhat difficult to tell how exactly this was supposed to be done in which we took it upon ourselves to make the buttons abstract and distinct.
 
 
 Part 6:
 
-Technical Skills:
+-Technical Skills:
 
-GitHub - Utilizing GitHub as a way to both work collaboratively in a shared workspace and 
+-GitHub - Utilizing GitHub as a way to both work collaboratively in a shared workspace and 
 
-Usability Test - Determining gaps and severity in user error to effectively create new iterations of design project
+-Usability Test - Determining gaps and severity in user error to effectively create new iterations of design project
 
-Figma - Creating a high fidelity prototype digital prototype that demonstrates
+-Figma - Creating a high fidelity prototype digital prototype that demonstrates
 
 Soft Skills
 
-Feedback Integration - Incorporating user, TA, and professor feedback at multiple stages of the design process
+-Feedback Integration - Incorporating user, TA, and professor feedback at multiple stages of the design process
 
-Collaboration - Effectively coordinating roles and effectively updating team members on ongoing progress and 
+-Collaboration - Effectively coordinating roles and effectively updating team members on ongoing progress and 
 
-Time Management - Utilize class time to organize weekly objectives and divide tasks accordingly 
+-Time Management - Utilize class time to organize weekly objectives and divide tasks accordingly 
