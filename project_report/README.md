@@ -80,6 +80,7 @@ Another key design insight was learning from the usability tests that certain fe
 
 Design Insight #3: Interface 
 
+The final insight came after the heuristic analysis for our initial digital mockup. Initially the search bar was located at the top middle section of the screen above all the tabs and tools. Feedback informed us though that the search bar functionality was great but got in the way of other important functionalities like the tool bar the top of the screen as well. We decidied it would be better served at a less-busy part of the application such as the top right. The other insight regarding our mockup was in the tabular system when it came to changing the sizes of windows and customizing the overall visibility of the panels. Feedback informed us that it was somewhat difficult to tell how exactly this was supposed to be done in which we took it upon ourselves to make the buttons abstract and distinct.
 
 
 Part 6:
